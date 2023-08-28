@@ -18,6 +18,7 @@ for t in range(T):
 
         if q.__len__() == 0:
             break
+    
 
         for j in q:
             if j > num:
